@@ -1,6 +1,6 @@
 <img src="pic.jpg" alt="drawing" width="300"/>
 
-# Plotly
+# Bacteria Analysi
 
 ## Purpose
 I will use Plotly.js, a JavaScript data visualization library, to create an interactive data visualization for the web. The completed work will be displayed in a portfolio you create.
